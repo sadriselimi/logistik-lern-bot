@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logistik Lern-Bot</title>
+    <style>
+        body { margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f4f4f4; }
+        iframe { width: 90vw; height: 90vh; border: none; }
+    </style>
+</head>
+<body>
+    <iframe src="https://chatgpt.com/g/g-67bcad7ad1ec8191bab065c032dfdad9-logistik-lern-bot-eba" allow="microphone; clipboard-write"></iframe>
+</body>
+</html>
